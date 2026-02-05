@@ -1,0 +1,9 @@
+.env
+*.env
+# Ignore API keys
+*.key
+*.secret
+# Ignore Local builds
+/build/
+# Ignore Godot cache
+/.godot/
